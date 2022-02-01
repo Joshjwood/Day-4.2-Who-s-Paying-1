@@ -1,0 +1,1 @@
+# Determines who's paying, from a user-provided list of names
